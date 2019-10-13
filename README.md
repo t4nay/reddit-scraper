@@ -1,2 +1,2 @@
 # reddit-scraper
-exports all subreddits posts to .txt file
+# exports all of a subreddits posts to .txt files
